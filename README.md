@@ -31,6 +31,13 @@ I thrive in **high-leverage intellectual environments** where operational transp
 
 ---
 
+### 🧭 Repository Governance
+This repository functions as a professional development log and architectural notebook documenting public-facing technical growth, systems thinking, and version control practices.
+
+**Sensitive IP, proprietary code, and experimental models are maintained in private repositories to preserve project integrity and align with academic and intellectual property governance requirements.**
+
+---
+
 ### 📫 Strategic Connection
 - **LinkedIn:** [aegoulding](https://www.linkedin.com/in/aegoulding/)
 - **Focus Areas:** Systems Architecture, Data Engineering, Infrastructure Governance.
