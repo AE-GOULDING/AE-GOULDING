@@ -1,33 +1,51 @@
 # Ashley Goulding
-**Systems Architect | Postgraduate AIDA Student @ Red Deer Polytechnic**
 
-### 🛡️ Digital Identity & Technical Mission
-I specialize in **Systems Thinking**—bridging the gap between high-level strategic logic and technical execution. My focus is on building **high-integrity technical infrastructure** through **Step-wise Validation** and **Integrity-driven Design.** I translate complex operational requirements into scalable, objective data solutions.
+**Post-Baccalaureate AIDA Student @ Red Deer Polytechnic | Data Engineering, Applied ML & Systems Modelling**
 
----
+### 🧭 Technical Direction
 
-### 🚀 Lead Project: UnderTheHood (AIDA Unified)
-*Status: Private Development for IP Governance & Project Integrity.*
+I’m a post-baccalaureate Artificial Intelligence & Data Analytics student developing practical skills in **data engineering, SQL, ETL pipeline design, machine learning, feature engineering, and systems-oriented analytics.**
 
-**Objective:** Engineering a robust ETL and Machine Learning pipeline for high-fidelity telemetry analysis.
-* **Systems Architecture:** Designing a "Single Source of Truth" by migrating raw signals through a validated SQL environment into predictive modeling.
-* **High-Leverage Logic:** Exploring the integration of 3D Digital Twins and API-driven visualizations to bridge the gap between cloud data and physical assets.
-* **The Tech Stack:** MS SQL Server (SSMS), Python (Pandas/Scikit-learn), Apache Airflow, VS Code.
+My background combines business, technology consulting, and operational problem-solving, which has shaped my interest in **physical and data-driven systems where better measurement, modelling, and decision support can improve real-world outcomes.**
+
+My longer-term technical interests include **industrial and environmental systems modelling, soft sensing, hybrid physical/ML models, uncertainty analysis, simulation, optimization, and digital-twin architectures.**
 
 ---
 
-### 🧬 Systems & Engineering Lab (Week 11)
-Currently leveraging **Git/GitHub** as a "Public Lab Notebook" to document professional growth, version control, and risk management.
-* **Methodology:** Utilizing **Branching** for hypothesis testing and model iteration.
-* **Governance:** Applying strict `.gitignore` protocols to maintain clean, professional repository standards.
+### 🚀 Lead Project: UnderTheHood
+
+*Automotive Telemetry Intelligence | Private development with selected public documentation*
+
+**Objective:** Build a governed data and machine-learning pipeline for vehicle telemetry analysis.
+
+- **Data Engineering:** Transforming raw telemetry through validated ingestion, SQL-based data modelling, quality controls, and reproducible feature-generation workflows.
+- **Applied Machine Learning:** Exploring vehicle profiling, engineered behavioural features, anomaly detection, and contextual telemetry analysis.
+- **Systems Perspective:** Using operational vehicle data to explore how governed datasets and predictive models can contribute to broader vehicle-state modelling and future digital-twin architectures.
+- **Current Stack:** MS SQL Server (SSMS), Python, Pandas, scikit-learn, Git/GitHub, VS Code.
 
 ---
 
-### 🎯 Strategic Value & Alignment
-I thrive in **high-leverage intellectual environments** where operational transparency and technical integrity are the standard.
-* **Complex Problem Solving:** Improving efficiencies in physical-to-digital systems.
-* **Process Integrity:** Prioritizing the "Why" behind technical pivots to ensure alignment with long-term engineering value.
-* **Ethical Governance:** Committed to organizations with transparent communication and human-centered objectives.
+### 🔬 Current Technical Development
+
+- **Data Engineering:** ETL workflows, schema integrity, relational modelling, data validation, and reproducibility.
+- **Applied ML:** Preprocessing pipelines, feature engineering, supervised learning, anomaly detection, and model evaluation.
+- **Engineering Practice:** Git-based version control, branching, environment management, documentation, and experiment traceability.
+- **Systems Thinking:** Connecting operational requirements, physical processes, data architecture, and analytical outputs.
+
+---
+
+### 🌱 Research & Application Interests
+
+I’m particularly interested in AI applications involving physical processes, operational data, resource efficiency, and environmental systems.
+
+- Industrial process monitoring
+- Advanced manufacturing
+- Resource and waste optimization
+- Water and wastewater systems
+- Environmental monitoring
+- Predictive maintenance
+- Process-state estimation and soft sensing
+- Systems modelling and digital-twin architectures
 
 ---
 
@@ -38,7 +56,8 @@ This repository functions as a professional development log and architectural no
 
 ---
 
-### 📫 Strategic Connection
+### 📫 Connect
 - **LinkedIn:** [aegoulding](https://www.linkedin.com/in/aegoulding/)
-- **Focus Areas:** Systems Architecture, Data Engineering, Infrastructure Governance.
-- **Target Sectors:** CleanTech, Advanced Manufacturing, Industrial Digital Twins.
+- **Focus Areas:** Data Engineering, Applied Machine Learning, Systems Thinking.
+- **Target Sectors:** CleanTech, Advanced Manufacturing, Industrial AI.
+- **Long-Term Interests:** Systems Modelling, Environmental AI, Digital Twin Architectures.
