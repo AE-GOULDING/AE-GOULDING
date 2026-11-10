@@ -1,63 +1,75 @@
 # Ashley Goulding
 
-**Post-Baccalaureate AIDA Student @ Red Deer Polytechnic | Data Engineering, Applied ML & Systems Modelling**
+**Post-Baccalaureate AIDA Student @ Red Deer Polytechnic | Data Engineering • Applied ML • Intelligent Operational Systems**
 
-### 🧭 Technical Direction
+## 🧭 Technical Direction
 
-I’m a post-baccalaureate Artificial Intelligence & Data Analytics student developing practical skills in **data engineering, SQL, ETL pipeline design, machine learning, feature engineering, and systems-oriented analytics.**
+I’m an Artificial Intelligence & Data Analytics student interested in how **data, models, decision mechanisms, and automation can work together to improve operational systems.**
 
-My background combines business, technology consulting, and operational problem-solving, which has shaped my interest in **physical and data-driven systems where better measurement, modelling, and decision support can improve real-world outcomes.**
+> **Observe → Understand → Decide → Act → Measure → Learn**
 
-My longer-term technical interests include **industrial and environmental systems modelling, soft sensing, hybrid physical/ML models, uncertainty analysis, simulation, optimization, and digital-twin architectures.**
+My work is increasingly focused on **intelligent operational systems**: understanding how processes generate data, where decisions occur, how analytical or ML capabilities can improve those decisions, and how outcomes can feed back into subsequent action.
 
----
-
-### 🚀 Lead Project: UnderTheHood
-
-*Automotive Telemetry Intelligence | Private development with selected public documentation*
-
-**Objective:** Build a governed data and machine-learning pipeline for vehicle telemetry analysis.
-
-- **Data Engineering:** Transforming raw telemetry through validated ingestion, SQL-based data modelling, quality controls, and reproducible feature-generation workflows.
-- **Applied Machine Learning:** Exploring vehicle profiling, engineered behavioural features, anomaly detection, and contextual telemetry analysis.
-- **Systems Perspective:** Using operational vehicle data to explore how governed datasets and predictive models can contribute to broader vehicle-state modelling and future digital-twin architectures.
-- **Current Stack:** MS SQL Server (SSMS), Python, Pandas, scikit-learn, Git/GitHub, VS Code.
+My current technical development spans **data engineering, SQL, ETL, applied machine learning, process analysis, and systems-oriented analytics**, informed by previous experience in business systems, technology consulting, and operations.
 
 ---
 
-### 🔬 Current Technical Development
+## 🚀 Lead Project — UnderTheHood
 
-- **Data Engineering:** ETL workflows, schema integrity, relational modelling, data validation, and reproducibility.
-- **Applied ML:** Preprocessing pipelines, feature engineering, supervised learning, anomaly detection, and model evaluation.
-- **Engineering Practice:** Git-based version control, branching, environment management, documentation, and experiment traceability.
-- **Systems Thinking:** Connecting operational requirements, physical processes, data architecture, and analytical outputs.
+**Automotive Telemetry Intelligence**
 
----
+A governed data and ML architecture for investigating how vehicle telemetry can support contextual vehicle-state analysis and operational decision support.
 
-### 🌱 Research & Application Interests
+> **Vehicle → Telemetry → Data Pipeline → State/Behaviour Analysis → Decision Support → Intervention → Feedback**
 
-I’m particularly interested in AI applications involving physical processes, operational data, resource efficiency, and environmental systems.
+**Current development:**
+- Validated telemetry ingestion and SQL data modelling
+- Reproducible feature engineering
+- Operating-state and phase-aware analysis
+- Vehicle profiling and anomaly detection
+- Intervention and feedback-oriented system design
 
-- Industrial process monitoring
-- Advanced manufacturing
-- Resource and waste optimization
-- Water and wastewater systems
-- Environmental monitoring
-- Predictive maintenance
-- Process-state estimation and soft sensing
-- Systems modelling and digital-twin architectures
+**Stack:** SQL Server • Python • Pandas • scikit-learn • Git/GitHub
 
 ---
 
-### 🧭 Repository Governance
-This repository functions as a professional development log and architectural notebook documenting public-facing technical growth, systems thinking, and version control practices.
+## 🔄 Areas of Technical Development
 
-**Sensitive IP, proprietary code, and experimental models are maintained in private repositories to preserve project integrity and align with academic and intellectual property governance requirements.**
+- **Data Engineering** — operational data, ETL, relational modelling, validation, lineage
+- **Applied ML** — feature engineering, supervised learning, clustering, anomaly detection
+- **Process Intelligence** — workflows, operational states, bottlenecks, event-oriented analysis
+- **Decision Systems** — connecting analytical outputs to explainable decisions and interventions
+- **Systems Engineering** — architecture, integration, monitoring, feedback, and failure-mode thinking
+- **Responsible AI** — human oversight, traceability, uncertainty, and appropriate automation boundaries
 
 ---
 
-### 📫 Connect
-- **LinkedIn:** [aegoulding](https://www.linkedin.com/in/aegoulding/)
-- **Focus Areas:** Data Engineering, Applied Machine Learning, Systems Thinking.
-- **Target Sectors:** CleanTech, Advanced Manufacturing, Industrial AI.
-- **Long-Term Interests:** Systems Modelling, Environmental AI, Digital Twin Architectures.
+## ⚙️ Engineering Philosophy
+
+I approach operational problems by first understanding the **system, its objectives, constraints, data, and decision points**, then determining where intelligence can create meaningful value.
+
+I’m interested in selecting and integrating the appropriate technical intervention—whether through **instrumentation, data engineering, statistical methods, optimization, machine learning, automation, or human decision support**.
+
+My focus is on systems where **data and intelligence connect to meaningful decisions, measurable outcomes, and feedback**, with complexity introduced where it provides clear operational value.
+
+> **How can we engineer systems that observe operational processes, learn from their behaviour, make better decisions, execute appropriate actions, and continuously evaluate the result?**
+
+---
+
+## 🌱 Research & Application Interests
+
+**Industrial AI • Process Intelligence • Intelligent Automation • Predictive Maintenance • Advanced Manufacturing • AgTech • Energy & Resource Optimization • Environmental Systems • Soft Sensing • Simulation & Optimization • Digital Twins • Cyber-Physical Systems**
+
+---
+
+## 🧭 Repository Approach
+
+Public repositories emphasize **system architecture, methodology, reproducibility, and selected implementations**. Academic, proprietary, or experimental work may remain private where appropriate.
+
+---
+
+## 📫 Connect
+
+**[LinkedIn — aegoulding](https://www.linkedin.com/in/aegoulding/)**
+
+**Current Focus:** Data Engineering • Applied ML • Process Intelligence • Intelligent Operational Systems
